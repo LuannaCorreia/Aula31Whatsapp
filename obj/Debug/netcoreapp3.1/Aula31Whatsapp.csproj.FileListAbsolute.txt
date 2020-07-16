@@ -1,0 +1,11 @@
+C:\Users\Senai132\Desktop\Aula31Whatsapp\bin\Debug\netcoreapp3.1\Aula31Whatsapp.exe
+C:\Users\Senai132\Desktop\Aula31Whatsapp\bin\Debug\netcoreapp3.1\Aula31Whatsapp.deps.json
+C:\Users\Senai132\Desktop\Aula31Whatsapp\bin\Debug\netcoreapp3.1\Aula31Whatsapp.runtimeconfig.json
+C:\Users\Senai132\Desktop\Aula31Whatsapp\bin\Debug\netcoreapp3.1\Aula31Whatsapp.runtimeconfig.dev.json
+C:\Users\Senai132\Desktop\Aula31Whatsapp\bin\Debug\netcoreapp3.1\Aula31Whatsapp.dll
+C:\Users\Senai132\Desktop\Aula31Whatsapp\bin\Debug\netcoreapp3.1\Aula31Whatsapp.pdb
+C:\Users\Senai132\Desktop\Aula31Whatsapp\obj\Debug\netcoreapp3.1\Aula31Whatsapp.csprojAssemblyReference.cache
+C:\Users\Senai132\Desktop\Aula31Whatsapp\obj\Debug\netcoreapp3.1\Aula31Whatsapp.AssemblyInfoInputs.cache
+C:\Users\Senai132\Desktop\Aula31Whatsapp\obj\Debug\netcoreapp3.1\Aula31Whatsapp.AssemblyInfo.cs
+C:\Users\Senai132\Desktop\Aula31Whatsapp\obj\Debug\netcoreapp3.1\Aula31Whatsapp.dll
+C:\Users\Senai132\Desktop\Aula31Whatsapp\obj\Debug\netcoreapp3.1\Aula31Whatsapp.pdb
